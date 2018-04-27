@@ -10,7 +10,7 @@
 ![Healthdrop](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/Health%20drop%20chance.png)
 
 
-### - Patroller Spider enemy that travels between fixed points in the map -
+### - Patroller Spider enemy that travels between fixed points on the map -
 ![PatrollerSpider](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/PatrolSpider.png)
 
 
@@ -26,14 +26,14 @@
 ![DamageProjectile](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/ProjectileBP.png)
 
 
-### - Boss Attack 1/3 (attacks 1-3 are consequent events) -
+### - Boss Attack 1/3 (attacks 1-3 are consequent events): Boss roar conveyed through a camera shake -
 ![ScreamAttack1](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/BossAttack%20-%201.png)
 
 
-### - Boss Attack 2/3 -
+### - Boss Attack 2/3: Player's speed reduces temporarily during camera shake -
 ![ScreamAttack2](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/BossAttack%20-%202%20(followup).png)
 
-### - Boss Attack 3/3 -
+### - Boss Attack 3/3: Actors (bricks) fall from the ceiling to cause damage as the final event - 
 ![ScreamAttack3](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/BossAttack%20-%203%20(final%20followup).png)
 
 
