@@ -19,7 +19,7 @@
 
 
 ## Ranged Spider
-![RangedSpider]https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/SpawnProjectile.png
+![RangedSpider](![RangedSpider]https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/SpawnProjectile.png)
 
 
 ## Damage Projectile blueprint for the Ranged Spider enemy
