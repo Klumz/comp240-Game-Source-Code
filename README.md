@@ -46,7 +46,7 @@
 
 
 ### Player Cursor Rotation
-![PlayerCursorRotation](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/PlayerCursorRotation.png
+![PlayerCursorRotation](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/PlayerCursorRotation.png)
 
 
 ### Player ragdoll on death
