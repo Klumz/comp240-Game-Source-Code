@@ -37,7 +37,7 @@
 ![ScreamAttack3](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/BossAttack%20-%203%20(final%20followup).png)
 
 
-### Puzzle 1 - I would've commented on these but I've lost access to the code as it has been removed, and these were the only images I had. Basically, the player is presented with 3 levers. They have to press them in correct order, and said order is hinted at in our menu/book screen that provides information/clues for the player. If the order is done correctly, the gate opens - enemies spawn if wrong (this was missing).
+### Puzzle 1 - I would've commented on these but I've lost access to the code as it has been removed, and these were the only images I had. Basically, the player is presented with 3 levers. They have to press them in correct order, which is hinted at in our journal screen. If the order is done correctly, the gate opens - enemies spawn if wrong (this was missing).
 ![Puzzle1](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/Puzzle%201.png)
 
 
