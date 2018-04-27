@@ -18,7 +18,7 @@
 ![WanderSpider](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/RandomWander.png)
 
 
-### - Ranged Spider that shoots projectiles at the player -
+### - Ranged Spider that shoots projectiles -
 ![RangedSpider](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/SpawnProjectile.png)
 
 
