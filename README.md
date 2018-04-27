@@ -6,7 +6,7 @@
 ![Healthpickup](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/HealthPickup.png)
 
 
-### - Health Drop chance after enemy dies -
+### - Health Drop chance after enemy dies (1/4 chance of dropping health when enemy dies) -
 ![Healthdrop](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/Health%20drop%20chance.png)
 
 
