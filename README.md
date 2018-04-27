@@ -26,7 +26,7 @@
 ![DamageProjectile](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/ProjectileBP.png)
 
 
-### - Boss Attack 1/3 (its attacks are consequent events): Boss roar conveyed through a camera shake -
+### - Boss Attack 1/3 (attacks are consequent events): Boss roar conveyed through a camera shake -
 ![ScreamAttack1](https://raw.githubusercontent.com/Klumz/comp240-Game-Source-Code/master/Blueprint%20images/BossAttack%20-%201.png)
 
 
